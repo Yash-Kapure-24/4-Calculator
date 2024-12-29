@@ -9,4 +9,11 @@
     height: 45px;
     margin: 3px;
     border: 1px solid gray;
+    border-radius: 15px;
+    box-shadow: inset 1px 1px 4px 1px gray;
+    transition: 1s ease-in-out;
+}
+
+.button:hover {
+    box-shadow: 1px 1px 4px 1px gray;
 }

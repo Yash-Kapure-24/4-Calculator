@@ -2,4 +2,7 @@
     margin: 10px;
     width: 170px;
     font-size: 25px;
+    background: #ace7ac;
+    border: none;
+    box-shadow: inset 2px 2px 2px #010101;;
 }
